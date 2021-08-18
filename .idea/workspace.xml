@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="422806de-bfe8-439b-8c9d-5626029d432b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,24 +128,32 @@
       <option name="project" value="LOCAL" />
       <updated>1629314817212</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refatorado Mentoria e Curso com conceito de heranca">
+      <created>1629315778746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629315778746</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Adiciona REDME.md" />
     <MESSAGE value="Criado Mentoria e Curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado Mentoria e Curso" />
+    <MESSAGE value="Refatorado Mentoria e Curso com conceito de heranca" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatorado Mentoria e Curso com conceito de heranca" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1629315357570">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1629316517788">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629315357570" />
-    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2" timestamp="1629314813346">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629316517788" />
+    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2" timestamp="1629315776217">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629314813346" />
+    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629315776217" />
     <state width="683" height="198" key="GridCell.Tab.0.bottom" timestamp="1629315657225">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -169,9 +174,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629311589318" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1629314821562">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1629315780229">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629314821562" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629315780229" />
   </component>
 </project>
