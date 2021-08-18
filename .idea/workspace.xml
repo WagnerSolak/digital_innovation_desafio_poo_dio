@@ -9,6 +9,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -20,7 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1wuEBn9Nua7PwTvbVahkAs2KEHt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +40,21 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="desafio-poo-dio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -90,21 +114,53 @@
       <option name="project" value="LOCAL" />
       <updated>1629301148048</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adiciona REDME.md">
+      <created>1629301574582</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629301574585</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Adiciona REDME.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adiciona REDME.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2" timestamp="1629301145859">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1629310976938">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629301145859" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1629301157350">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629310976938" />
+    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2" timestamp="1629301572393">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629301157350" />
+    <state x="99" y="0" width="1222" height="768" key="CommitChangelistDialog2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629301572393" />
+    <state width="683" height="199" key="GridCell.Tab.0.bottom" timestamp="1629313890962">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="683" height="199" key="GridCell.Tab.0.bottom/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629313890962" />
+    <state width="683" height="199" key="GridCell.Tab.0.center" timestamp="1629313890962">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="683" height="199" key="GridCell.Tab.0.center/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629313890962" />
+    <state width="683" height="199" key="GridCell.Tab.0.left" timestamp="1629313890962">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="683" height="199" key="GridCell.Tab.0.left/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629313890962" />
+    <state width="683" height="199" key="GridCell.Tab.0.right" timestamp="1629313890962">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="683" height="199" key="GridCell.Tab.0.right/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629313890962" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1629311589318">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629311589318" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1629301581652">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1360.0.1360.768@0.0.1366.768" timestamp="1629301581652" />
   </component>
 </project>
